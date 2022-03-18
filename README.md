@@ -1,7 +1,7 @@
 # Pizza-Shop
 Using Data Structure and Algorithms in java, I got 2 solutions for this Project
 
-## ![image](https://user-images.githubusercontent.com/101879759/159065164-1f379ee8-abae-437e-ae49-312145b28377.png)
+![image](https://user-images.githubusercontent.com/101879759/159065164-1f379ee8-abae-437e-ae49-312145b28377.png)
 
 ❖ Pseudocode:
 1. Insert required pizza slices by travelers to a priority queue
@@ -17,7 +17,7 @@ Step 4: n
 = (nlogn)*4+n =O(nlogn)
 
 
-## ![image](https://user-images.githubusercontent.com/101879759/159065259-97ce8515-3d33-4352-a589-521511d25a5d.png)
+![image](https://user-images.githubusercontent.com/101879759/159065259-97ce8515-3d33-4352-a589-521511d25a5d.png)
 ❖ Pseudocode:
 1. Sort required size of pizza by each traveler ascendingly
 2. Sort the available pizza slices according to size ascendingly
